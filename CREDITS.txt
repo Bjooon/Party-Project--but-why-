@@ -156,3 +156,4 @@ bgmcastawaynight - Welcome to my bistro - Dave the Diver
 mbgmlookingahead - Seahorse dash - Dave the diver
 bgmrainbowcastle - Overworld - RRThiel & brycecarrington
 mbgmslowly - Metal mario (eu version) SiivaGunner
+finaleadv - The coming dawn - Foamstars
