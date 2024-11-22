@@ -35,7 +35,7 @@ bgmdominoruins - Who YOU calling Pipsqueak!?!? - MEMODEMO
 slowly yet surely - Robotnick rock - Iteachvader
 bgmtoadsmidwaypinch - OVERTIME - PHIGHTING
 bgmvdream - Memento - MEMODEMO
-slowandsteady - Bowser's Rage Stage - Super mario bros wonder - SiivaGunner
+slowandsteady - Bossy crow - Billy hatcher
 Sort - South Island (Lovers) - Sonic the fighters
 Bigtrouble - Sonic vs knuckles - Sonic the fighters
 Thatsall - The Drink (Cup) - Kobyshinobi
@@ -149,7 +149,7 @@ bgmtowertreetopnight - Sprinting night - Mad rat dead
 castleboss - SENSORY OVERLOAD - Phighting
 oops - Feel the burn - Phighting
 mbgmminikong - Moustache, Barrel, and Gorilla - DDR:Mario mix
-bgmeternal - PLAYING MY GAME - Toadie
+bgmeternal - Madness - Chozo Warrior
 bgmcastaway - Tropical Groove - Dave the Diver
 bgmcastawaynight - Welcome to my bistro - Dave the Diver
 mbgmlookingahead - Seahorse dash - Dave the diver
