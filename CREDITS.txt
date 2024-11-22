@@ -1,6 +1,7 @@
 Wip
 
 Mod directed by - You can't beat D
+Contributers - Bjoon, thequagsir3, dom, Galrosa, Ziggy, Goofyguy,
 
 Characters
 Drat - You can't beat D
@@ -27,7 +28,7 @@ Midday showdown - Mario Circut (ost version) - Siivagunner
 Subcomputer - Fly Octo Fly (short version) - Siivagunner
 bgmenginepinch - Of Devious Machinations (Unused Version) - SiivaGunner
 dwinmp3 - Act Clear (NTSC Version) - Siivagunner
-finalfivebgm - Character select - Pizza tower
+finalfivebgm - Hello - Pizza OMFG
 bgmstarlightpinch - Menu (OST VERSION) Smash 4 - SiivaGunner
 endunlucky - Victory without a partner - Paper mario TTYD
 bgmdominoruinspinch - Stuff It! - MEMODEMO
@@ -57,10 +58,10 @@ mbgmwithoutcare - Flippin' Out! - Lights, camera, Pants!
 mbgmwhatnow - SIMPSONS WORLD -
 don't hurry - Luda Buster - MC TRASH
 duelforprizes - Albuquerque - Weird Al
-nervous tension - BLACK AIRFORCE TROUBLE - [A2]
+nervous tension - hard drive to munch you - Pizza tower
 Miss 1-3 - Steel stings - Spongebob
 mbgmcucumber - Quick minigame - Pac-man Party.
-mbgmbis - Ghost zone - Siivagunner
+mbgmbis - Castle- RRThiel
 bgmtoadsmidway - Rush hour - Phighting
 bgmlatency - Miller Ball Breakers (OST Version) - Siivagunner
 mbgmbreakers - Whoa I'm in Space Cuba - Siivagunner
@@ -119,7 +120,7 @@ bgmpagoda - Magma Mine - Siivagunner
 bgmtoy - Mario Party 9 Voices - Siivagunner
 mbgmkgrass - Pac-Baby - Pac-Man CE2
 battle - Ultra Instinct theme - Dragon ball super
-winmp5 - Superb! (Rhythm tengoku)
+winmp5 - How did we do? - Omori
 mbgmkeggcatch - Trance Music for Racing Game - MaestroBobbyCole Jazz
 dream - Event Common - Pokken Tournament 
 mbgmbean - Sentinel (E-Soldat's Theme) - Akatsuki Blitzkampf 
