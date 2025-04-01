@@ -2,7 +2,7 @@
 	"main": "index.html",
 	"name": "party",
 	"description": "",
-	"version": "v98.3-240829",
+	"version": "v98.4-250124",
 	"window": {
 		"icon": "icon-128.png",
 		"width": 848,
