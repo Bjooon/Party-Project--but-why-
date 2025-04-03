@@ -16,13 +16,16 @@ Ghost sprites - You can't beat D
 Double die, triple die, and all movement cards - Goofy guy
 
 
-BOARDS
+Board Edits
 D's dimension - You can't beat D
 Wooper's battle canyon - You can't beat D
 Phighting crossroads - Bjoon
 The Blue Hole
 Goof's Tycoon town - Goofyguy
 Goomba land - Ziggy
+
+Custom Boards
+
 
 MUSIC
 Midday showdown - Mario Circut (ost version) - Siivagunner
@@ -142,7 +145,7 @@ winmp1t - Victory - Plants vs zombies 1
 winmp4t - Superb! - Rhythm heaven
 winmp3t - Superb! Rhythm heaven Fever
 winmp3 - Challange failed - Heaven studio
-winrpg - Challange win! - Heaven studio
+winrpg - Kayava - Rain World
 winmp7 - Superb! - Heaven studio
 winmp2 - Ok! - Heaven Studio
 eventchancetime4 - default chance time + Somebody's getting fucked mashup (made by me)
