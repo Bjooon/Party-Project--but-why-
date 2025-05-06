@@ -20,11 +20,14 @@ Board Edits
 D's dimension - You can't beat D
 Wooper's battle canyon - You can't beat D
 Phighting crossroads - Bjoon
-The Blue Hole
+The Blue Hole - Bjoon
 Goof's Tycoon town - Goofyguy
 Goomba land - Ziggy
 
 Custom Boards
+Peam Paradise - You can't beat D
+Monkey watch - Quagsire
+
 
 
 MUSIC
@@ -37,15 +40,15 @@ bgmstarlightpinch - Menu (OST VERSION) Smash 4 - SiivaGunner
 endunlucky - Victory without a partner - Paper mario TTYD
 bgmdominoruinspinch - Stuff It! - MEMODEMO
 bgmdominoruins - Who YOU calling Pipsqueak!?!? - MEMODEMO
-slowly yet surely - Robotnick rock - Iteachvader
+mbgmslowlyyetsurely - Chess type beat - Joyfull
 bgmtoadsmidwaypinch - OVERTIME - PHIGHTING
 bgmvdream - Memento - MEMODEMO
-slowandsteady - Bossy crow - Billy hatcher
-Sort - Blackest Luxury Car - Muse Dash
+slow and steady - Only So Much Oil In The Ground - DBZ B2
+mbgmsort - Blackest Luxury Car - Muse Dash
 Bigtrouble - Sonic vs knuckles - Sonic the fighters
 Thatsall - The Drink (Cup) - Kobyshinobi
 The pressure's on - The Runner - Pizza Tower
-twinmp3 - Noise boss clear - Pizza tower
+twinmp3 - victory (old) - Brawlhalla
 twinmp2 - Group minigame win - Super mario party
 winwarboss - Victory (Mr.Game & Watch) - Siivagunner
 winmpds - course clear (alternitve) - siivagunner
@@ -55,17 +58,25 @@ bgmwbattlepinch - Dark skies - Castle crashers
 mbgmgreatfear - Techock - Castle crashers
 mbgmksnacks - The show - Castle crashers
 howmany - Gold grab - Castle crashers
-bgmwbattle - Goo-ladiators - Lights, camera, Pants!
+bgmengineroom - e.g.g.m.a.n (Siivagunner) sa2
+bgmengineroompinch - e.g.g.m.a.n (Siivagunner) pso2
+bgmwoods - watery graves - pvz
+bgmwoodspinch - loon skirmish - pvzgw1/2/bfn
+mbgmduelforprizes - Slider theme in a minor - Sm64
+mbgmheartpumpingduel - Oiia rave -
+bgmwbattle - a whooper song i forgor the name of hang on -
+bdmwbattlepinch - another whooper song i forgot about hang on. -
+
 bgmpirate5pinch - Hook, Line, & Chedder - Lights, camera, Pants!
 mbgmwbunny - Jellyfish swish - Lights, camera, Pants!
 mbgmwithoutcare - Flippin' Out! - Lights, camera, Pants!
 mbgmwhatnow - SIMPSONS WORLD -
 don't hurry - Luda Buster - MC TRASH
-duelforprizes - Albuquerque - Weird Al
+mbgmduelforprizes - Albuquerque - Weird Al
 nervous tension - hard drive to munch you - Pizza tower
 Miss 1-3 - Steel stings - Spongebob
 mbgmcucumber - Quick minigame - Pac-man Party.
-mbgmbis - Castle- RRThiel
+mbgmbis - Castle - RRThiel
 bgmtoadsmidway - Rush hour - Phighting
 bgmlatency - Miller Ball Breakers (OST Version) - Siivagunner
 mbgmbreakers - Whoa I'm in Space Cuba - Siivagunner
@@ -121,6 +132,7 @@ mbgmkteatime - The Blue Skies Yonder - Siivagunner
 bgmspace - Space Land - Siivagunner
 mbgmloudnsweet - Tough Enemy - Siivagunner
 bgmpagoda - Magma Mine - Siivagunner
+mbgmoops - hands up high (code red mix) - Siivagunner
 bgmtoy - Mario Party 9 Voices - Siivagunner
 mbgmkgrass - A Jack-in-the-Box - Billy Hatcher
 battle - Ultra Instinct theme - Dragon ball super
@@ -128,7 +140,7 @@ winmp5 - How did we do? - Omori
 mbgmkeggcatch - Trance Music for Racing Game - MaestroBobbyCole Jazz
 dream - Event Common - Pokken Tournament 
 mbgmbean - Sentinel (E-Soldat's Theme) - Akatsuki Blitzkampf 
-bouncing around - Green light ride - Team sonic Racing
+bouncing around - What a Mario World x Pillar John's Revenge - GoldyBer
 bgmwigglersgardenpinch - Sylvan Radiance - Rivals of Aether 2
 bgmtycoon - Life's Incredible Again - The Incredibles
 bgmgala - Boiler City - Anton Blast
